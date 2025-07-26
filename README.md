@@ -120,6 +120,34 @@
 
 **5. Hotel na região**
 
+## Dia 6 - 06 de outubro (Viagem a Kyoto)
+
+**1. Viagem até Kyoto**
+- Trem de **Fujiyoshida** (ou de Tokyo se voltarmos, mas não vejo porque) até **Kyoto** (2 horas)
+
+**2. Adashino Nenbutsuji**
+- Templo budista com jardim de bambus bonito. Potencial substituto ao *Arashiyama Bamboo Forest*.
+
+**3. Arashiyama Bamboo Forest**
+- Floresta de bambus bonita.
+
+**4. Higashiyama Ward**
+- Área da cidade bem antiga.
+- **Kiyomizu-dera**: Fortificação bem antiga muito bonita.
+
+## Dia 7
+
+**Kamigamo Shrine**
+- Trilha com decorações muito bonitas.
+
+**Otagi Nenbutsuji Temple**
+- Parece interessante. Investigar mais.
+
+## Dia 8 - 08 de outubro
+
+**1. Amanohashidate - Miyazu**
+- Bondinho com vista muito massa. É longe de Kyoto, mas tem trem 4 vezes ao dia, leva 2 horas. Chegando na estação em Miyazu, aparentemente tem que pegar um taxi pra chegar no local.
+
 ---
 
 ## Observações Gerais
