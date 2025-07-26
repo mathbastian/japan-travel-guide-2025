@@ -148,6 +148,11 @@
 **1. Amanohashidate - Miyazu**
 - Bondinho com vista muito massa. É longe de Kyoto, mas tem trem 4 vezes ao dia, leva 2 horas. Chegando na estação em Miyazu, aparentemente tem que pegar um taxi pra chegar no local.
 
+
+## Dia n - 0n de Outubro (Osaka)
+- Viagem para Nara no trem Blue symphony. Ver [post do instagram](https://www.instagram.com/reel/DLWMKBCpzl4/?utm_source=ig_web_copy_link&igsh=aWRmdHlxMDl1b3k3).
+
+
 ---
 
 ## Observações Gerais
