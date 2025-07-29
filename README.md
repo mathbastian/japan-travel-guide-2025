@@ -3,22 +3,34 @@
 ## 📅 Dia 1 – 01 de outubro (Asakusa, Skytree, Tsukiji)
 
 **1. Sensō-ji Temple (Asakusa)**
-- Como chegar: Ginza Line de Akasaka-mitsuke até Asakusa (~20min, ¥200)
 - Entrada gratuita, abre às 6h
 - Caminhar pela Nakamise-dōri (lojinhas e comida de rua)
 
 **2. Tokyo Skytree**
-- Caminhar pela Sumida River Walk (15min) ou Tobu Line (1 parada, ¥60)
-- Subir até o observatório de 350m (¥3.300)
+- **Caminhar** pela Sumida River Walk (15min) ou **pegar um trem**: [Trajeto](https://www.rome2rio.com/map/Sens%C5%8D-ji/Tokyo-Skytree)
 
 **3. Almoço no Solamachi Mall** (shopping anexo ao Skytree)
 
 **4. Tsukiji Outer Market**
-- De Skytree → Asakusa (Tobu) → Higashi-Ginza (Asakusa Line)
-- Mercado de peixes, frutos do mar, doces, snacks, comida de rua
+- Da Skytree até aqui, pegar metrô: [Trajeto](https://www.rome2rio.com/map/Tokyo-Skytree/Tsukiji-fish-market#r/Subway)
+- Mercado de peixes, frutos do mar, doces, snacks, comida de rua.
+
+## Caminhada ao redor do Tsukiji Market
+
+| Ordem | Local                      | Distância do ponto anterior | Tempo médio a pé |
+|-------|----------------------------|-----------------------------|-----------------|
+| 1     | **Tsukiji Outer Market**   | —                           | —               |
+| 2     | **Namiyoke Inari Shrine**  | 100 m                       | 2 min           |
+| 3     | **Tsukiji Hongan‑ji Temple**| 300 m                      | 4–5 min         |
+| 4     | **Kabukiza Theatre**       | 600 m                       | 7–8 min         |
+| 5     | **Ginza (lojas e cafés)**  | 300 m                       | 4–5 min         |
+| 6     | **Jardins Hamarikyu**      | 900 m                       | 10–12 min       |
+| 7     | **Ponte Kachidoki**        | 600 m                       | 8–9 min         |
+
+**Total aproximado de caminhada:** 35–40 min (sem contar tempo de visita).
 
 **5. Retorno ao hotel**
-- Higashi-Ginza → Akasaka-mitsuke (via Ginza Line)
+- [Trajeto desde Ponte Hachidoki (metrô)](https://www.rome2rio.com/map/Kachidoki-Bridge-6-Chome-19-Tsukiji-Chuo-City-Tokyo-Japan/Asakusa#r/Subway)
 
 ## 📅 Dia 2 – 02 de outubro (Harajuku, Shibuya, Gotokuji, Shinjuku)
 
@@ -146,3 +158,4 @@
 - Reservar **teamLab, Skytree e Shibuya Sky** online
 - Levar **passaporte** para descontos Tax Free
 - Conferir **Google Maps e Hyperdia** para rotas ao vivo
+- Comprar eSim no Airalo
