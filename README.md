@@ -1,11 +1,4 @@
-# Roteiro de 5 dias em Tóquio + Monte Fuji
-
-## Base de hospedagem
-- **Hotel recomendado**: Bairro **Akasaka**
-- **Estação próxima**: Akasaka-mitsuke Station (linhas Ginza e Marunouchi)
-- **Período**: 30/setembro a 05/outubro (5 noites)
-
----
+# Roteiro Japão 2025 - 30 de Setembro a 16 de Outubro
 
 ## 📅 Dia 1 – 01 de outubro (Asakusa, Skytree, Tsukiji)
 
@@ -26,8 +19,6 @@
 
 **5. Retorno ao hotel**
 - Higashi-Ginza → Akasaka-mitsuke (via Ginza Line)
-
----
 
 ## 📅 Dia 2 – 02 de outubro (Harajuku, Shibuya, Gotokuji, Shinjuku)
 
@@ -50,8 +41,6 @@
 
 **6. Noite em Shinjuku**
 - Lojas, eletrônicos, ABC-Mart (promoções e Tax Free com passaporte)
-
----
 
 ## 📅 Dia 3 – 03 de outubro (Nezu, Ueno, Ginza, teamLab, Tokyo Tower)
 
@@ -79,8 +68,6 @@
 
 **7. Retorno ao hotel**
 
----
-
 ## 📅 Dia 4 – 04 de outubro (Akihabara, Shibuya Sky, Kart)
 
 **1. Akihabara**
@@ -100,30 +87,32 @@
 
 **5. Descansar cedo para viagem a Fuji**
 
----
-
 ## 📅 Dia 5 – 05 de outubro (Monte Fuji – Chureito, Kawaguchi)
 
 **1. Viagem até Fujiyoshida**
-- Akasaka → Shinjuku → Otsuki (JR Chuo Line) → Kawaguchiko (Fujikyu Railway)
+- Por **trem** ou **ônibus** até a estação *Mt. Fuji*: [Trajeto](https://www.rome2rio.com/map/Tokyo/Mt-Fuji-Station)
 
-**2. Pagoda Chureito**
-- Estação Shimoyoshida → subir escadaria (~400 degraus)
-- Entrada: ¥500
-
-**3. Vila de Fujiyoshida**
+**2. Vila de Fujiyoshida**
 - Restaurantes, lojinhas, doces regionais
 
+**3. Pagoda Chureito**
+- Trem de *Mt. Fuji Station* até Estação *Shimoyoshida* → subir escadaria (~400 degraus)
+- Entrada: ¥500
+- [Trajeto](https://www.rome2rio.com/map/Mt-Fuji-Station/Chureito-Pagoda-2-chome-4-1-%E6%B5%85%E9%96%93-Fujiyoshida-Yamanashi-Japan#r/Train)
+
 **4. Oishi Park e Lago Kawaguchiko**
-- Transporte: ônibus ou táxi local (~15min)
+- Saída de Pagoda Chureito: [Trajeto](https://www.rome2rio.com/map/Chureito-Pagoda-2-chome-4-1-%E6%B5%85%E9%96%93-Fujiyoshida-Yamanashi-Japan/Oishi-Park)
 - Almoço no Royal Host com vista para o Fuji
 
-**5. Hotel na região**
+**5. Volta para Tokyo**
+- Volta de Oishi Park até Mt. Fuji Station.
+- De *Mt. Fuji Station* em Fujiyoshida até *Tokyo* de trem: [Trajeto](https://www.rome2rio.com/map/Mt-Fuji-Station/Tokyo)
 
 ## Dia 6 - 06 de outubro (Viagem a Kyoto)
 
 **1. Viagem até Kyoto**
-- Trem de **Fujiyoshida** (ou de Tokyo se voltarmos, mas não vejo porque) até **Kyoto** (2 horas)
+- Trem de **Tokyo** até **Kyoto**: [Trajeto](https://www.rome2rio.com/map/Tokyo/Kyoto)
+- Chegar no hotel
 
 **2. Adashino Nenbutsuji**
 - Templo budista com jardim de bambus bonito. Potencial substituto ao *Arashiyama Bamboo Forest*.
@@ -135,7 +124,7 @@
 - Área da cidade bem antiga.
 - **Kiyomizu-dera**: Fortificação bem antiga muito bonita.
 
-## Dia 7
+## Dia 7 (Segundo dia em Kyoto)
 
 **Kamigamo Shrine**
 - Trilha com decorações muito bonitas.
@@ -143,17 +132,14 @@
 **Otagi Nenbutsuji Temple**
 - Parece interessante. Investigar mais.
 
-## Dia 8 - 08 de outubro
+## Dia 8 - 08 de outubro (Terceiro dia em Kyoto, Miyazu)
 
 **1. Amanohashidate - Miyazu**
 - Bondinho com vista muito massa. É longe de Kyoto, mas tem trem 4 vezes ao dia, leva 2 horas. Chegando na estação em Miyazu, aparentemente tem que pegar um taxi pra chegar no local.
-
+- [Trajeto de trem até Amanohashidate](https://www.rome2rio.com/map/Kyoto/Amanohashidate-Beach-Monju-Miyazu-Kyoto-Japan#r/Train/s/0)
 
 ## Dia n - 0n de Outubro (Osaka)
 - Viagem para Nara no trem Blue symphony. Ver [post do instagram](https://www.instagram.com/reel/DLWMKBCpzl4/?utm_source=ig_web_copy_link&igsh=aWRmdHlxMDl1b3k3).
-
-
----
 
 ## Observações Gerais
 - Usar **Suica/Pasmo** para transporte urbano
