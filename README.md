@@ -15,7 +15,7 @@
 - Da Skytree até aqui, pegar metrô: [Trajeto](https://www.rome2rio.com/map/Tokyo-Skytree/Tsukiji-fish-market#r/Subway)
 - Mercado de peixes, frutos do mar, doces, snacks, comida de rua.
 
-## Caminhada ao redor do Tsukiji Market
+### Caminhada ao redor do Tsukiji Market
 
 | Ordem | Local                      | Distância do ponto anterior | Tempo médio a pé |
 |-------|----------------------------|-----------------------------|-----------------|
