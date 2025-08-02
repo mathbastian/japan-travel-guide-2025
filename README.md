@@ -35,20 +35,21 @@
 ## 📅 Dia 2 – 02 de outubro (Harajuku, Shibuya, Gotokuji, Shinjuku)
 
 **1. Meiji Jingu Shrine**
-- Como chegar: Akasaka-mitsuke → Meiji-jingumae (Chiyoda Line, ~20min)
+- Como chegar: Metrô da Estação *Akasaka-mitsuke* → *Meiji-jingumae* (Linha *Chiyoda*, ~20min)
 - Bosque tranquilo, portões torii
 
 **2. Takeshita Street**
+- [Trajeto a pé saindo de *Meiji Jingu Shrine*](https://www.rome2rio.com/map/Meiji-Shrine/Takeshita-Street-1-Chome-19-Jingumae-Shibuya-Tokyo-Japan#r/Walk/s/0)
 - Rua de pedestres com lojas coloridas, crepes, souvenires
 
-**3. Almoço em Omotesando**
+**3. Almoço em Omotesando ou nas redondezas**
 
 **4. Shibuya Crossing e Hachiko**
-- Como chegar: JR Yamanote Line → Shibuya
-- Starbucks para vista do cruzamento
+- [Trajeto de trem de *meiji-jingumae harajuku* até *Shibuya*](https://www.rome2rio.com/map/Japan-%E3%80%92150-0001-Tokyo-Shibuya-Jingumae-1-Chome%E2%88%92%EF%BC%91%EF%BC%95-Takeshita-Street-Harajuku/Shibuya-Crossing#r/Subway)
+- Ir no Starbucks para vista do cruzamento
 
 **5. Templo Gotokuji (maneki-neko)**
-- Como chegar: Shibuya → Shinjuku (JR) → Odakyu Line até Gotokuji (~30min)
+- Como chegar: [Trajeto de *Shibuya* até *Miyanosaka* de trem](https://www.rome2rio.com/map/Shibuya-Crossing/G%C5%8Dtokuji-Temple#r/Train)
 - Templo dos gatinhos da sorte
 
 **6. Noite em Shinjuku**
@@ -56,26 +57,27 @@
 
 ## 📅 Dia 3 – 03 de outubro (Nezu, Ueno, Ginza, teamLab, Tokyo Tower)
 
-**1. Nezu-jinja**
+**1. Nezu-jinja/Nezu Shrine**
 - Como chegar: Akasaka-mitsuke → Nezu (Chiyoda Line, ~18min)
 - Templo com jardins e torii vermelhos
 
 **2. Parque Ueno & Templo Bentendo**
-- Ônibus local ou metrô até Ueno
+- [Ônibus local ou metrô até Ueno](https://www.rome2rio.com/map/Nezu-Shrine/Ueno-Park#r/Bus)
 - Souvenires, comida de rua, museus
 
-**3. Almoço na Ameyoko Street (Ueno)**
+**3. Almoço na Ueno Ameyoko Shopping Street**
+- Vir caminhando do parque Ueno
 
 **4. Ginza**
-- Como chegar: Ueno → Ginza (Ginza Line, ~15min)
+- [Como chegar](https://maps.app.goo.gl/tiz91dtZToMjsD778): trem da estação Ueno até Yurakucho
 - Lojas de luxo, GU (roupas baratas), Nissan Gallery
 
 **5. teamLab Borderless**
-- Como chegar: Ginza → Shimbashi → Yurikamome → Aomi Station
+- [Como chegar](https://maps.app.goo.gl/d3jU6fSqNrfEbnJ47): Hibiya Line em Ginza Station até Kamiyacho.
 - Museu digital imersivo (ingresso antecipado)
 
 **6. Tokyo Tower**
-- De Aomi → Shimbashi → Akabanebashi Station (Toei Oedo Line)
+- Dá pra chegar caminhando saindo de **teamLab Borderless**
 - Subida opcional (~¥1.200)
 
 **7. Retorno ao hotel**
@@ -83,19 +85,17 @@
 ## 📅 Dia 4 – 04 de outubro (Akihabara, Shibuya Sky, Kart)
 
 **1. Akihabara**
-- Como chegar: Ginza/Marunouchi Line → Otemachi → JR até Akihabara
-- Eletrônicos, maid cafés, lojas geek
+- Eletrônicos, lojas geek
 
-**2. Shibuya Sky**
-- Como chegar: Akihabara → Shibuya (JR Yamanote Line)
-- Observatório com vista 360º (reserva antecipada, ¥3.000)
-
-**3. Don Quixote (DonKi)**
+**2. Don Quixote (DonKi)**
+- [Como chegar](https://www.rome2rio.com/map/Akihabara-Electric-Town/Don-Quijote-Asakusa-2-Chome-10-Asakusa-Taito-City-Tokyo-Japan#r/Train/s/0): Trem de Akihabara até Asakusa(Tsukuba)
 - Lojas de tudo um pouco: souvenirs, cosméticos, snacks
 
-**4. Kart real em Shibuya**
-- Requer PID (Permissão Internacional para Dirigir)
-- Trajeto pelas ruas de Shibuya e Harajuku
+**3. Shibuya Sky**
+- [Como chegar](https://www.rome2rio.com/map/Don-Quijote-Asakusa-2-Chome-10-Asakusa-Taito-City-Tokyo-Japan/Shibuya-Scramble-Square-2-Chome-24-12-Shibuya-Tokyo-Japan#r/Subway): Metrô de Tawaramachi (perto do Donki) até Shibuya
+- Observatório com vista 360º (reserva antecipada, ¥3.000)
+
+**4. Ruas de Shibuya e Harajuku**
 
 **5. Descansar cedo para viagem a Fuji**
 
