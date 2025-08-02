@@ -120,7 +120,7 @@
 - Volta de Oishi Park até Mt. Fuji Station.
 - De *Mt. Fuji Station* em Fujiyoshida até *Tokyo* de trem: [Trajeto](https://www.rome2rio.com/map/Mt-Fuji-Station/Tokyo)
 
-## Dia 6 - 06 de outubro (Viagem a Kyoto)
+## 📅 Dia 6 - 06 de outubro (Viagem a Kyoto)
 
 **1. Viagem até Kyoto**
 - Trem de **Tokyo** até **Kyoto**: [Trajeto](https://www.rome2rio.com/map/Tokyo/Kyoto)
@@ -136,7 +136,7 @@
 - Área da cidade bem antiga.
 - **Kiyomizu-dera**: Fortificação bem antiga muito bonita.
 
-## Dia 7 (Segundo dia em Kyoto)
+## 📅 Dia 7 (Segundo dia em Kyoto)
 
 **Kamigamo Shrine**
 - Trilha com decorações muito bonitas.
@@ -144,18 +144,118 @@
 **Otagi Nenbutsuji Temple**
 - Parece interessante. Investigar mais.
 
-## Dia 8 - 08 de outubro (Terceiro dia em Kyoto, Miyazu)
+## 📅 Dia 8 - 08 de outubro (Terceiro dia em Kyoto, Miyazu)
 
 **1. Amanohashidate - Miyazu**
 - Bondinho com vista muito massa. É longe de Kyoto, mas tem trem 4 vezes ao dia, leva 2 horas. Chegando na estação em Miyazu, aparentemente tem que pegar um taxi pra chegar no local.
 - [Trajeto de trem até Amanohashidate](https://www.rome2rio.com/map/Kyoto/Amanohashidate-Beach-Monju-Miyazu-Kyoto-Japan#r/Train/s/0)
 
-## Dia n - 0n de Outubro (Osaka)
-- Viagem para Nara no trem Blue symphony. Ver [post do instagram](https://www.instagram.com/reel/DLWMKBCpzl4/?utm_source=ig_web_copy_link&igsh=aWRmdHlxMDl1b3k3).
+## 📅 Dia 9 - 09 de outubro (Quarto dia em Kyoto)
+
+## 📅 Dia 10 - 10 de Outubro (Viagem para Osaka)
+
+**1. Viagem até Osaka**
+- Trem bala (Shinkansen) de **Kyoto** até **Osaka** (~15min).  
+- [Trajeto](https://www.rome2rio.com/map/Kyoto/Osaka)  
+- Check-in no hotel (recomendado próximo de Namba ou Umeda).
+
+**2. Namba Yasaka Jinja**
+- [Trajeto](https://www.rome2rio.com/map/Osaka-Station/Namba-Yasaka-Shrine)  
+- Santuário famoso pelo palco em formato de cabeça de leão.
+
+**3. Caminhada em Namba**
+- Ruas tranquilas para passear.  
+- **Almoço no Yakiniku no Watami**: você assa sua própria carne.  
+- [Trajeto até o restaurante](https://www.rome2rio.com/map/Namba-Yasaka-Shrine/Yakiniku-no-Watami-Osaka)
+
+**4. Dotonbori**
+- [Trajeto](https://www.rome2rio.com/map/Yakiniku-no-Watami-Osaka/Dotonbori-Osaka)  
+- Principal rua turística: letreiros luminosos, canal, roda gigante no Donki (3º andar).  
+
+**5. Retorno ao hotel**
+- [Trajeto](https://www.rome2rio.com/map/Dotonbori-Osaka/Hotel-Namba-Osaka)
+
+## 📅 Dia 11 - 11 de Outubro (Segundo dia em Osaka)
+
+**1. Castelo de Osaka**
+- [Trajeto](https://www.rome2rio.com/map/Namba/Osaka-Castle)  
+- Entrada: ~¥600.  
+- Museu no 7º andar e mirante no 8º andar. Lago logo atrás.
+
+**2. Museu de História de Osaka (opcional)**
+- [Trajeto](https://www.rome2rio.com/map/Osaka-Castle/Osaka-Museum-of-History)  
+- Fica em frente ao castelo.
+
+**3. Almoço próximo ao Castelo**
+- Restaurantes no parque ou região de Morinomiya.
+
+**4. Umeda Sky Building**
+- [Trajeto](https://www.rome2rio.com/map/Osaka-Castle/Umeda-Sky-Building)  
+- Observatório com vista panorâmica. Melhor ir no pôr do sol.
+
+**5. Noite em Umeda**
+- Compras e jantar.  
+- [Trajeto retorno hotel](https://www.rome2rio.com/map/Umeda-Sky-Building/Namba)
+
+## 📅 Dia 12 - 12 de Outubro (Terceiro dia em Osaka)
+
+**1. Mercado Kuromon Ichiba**
+- [Trajeto](https://www.rome2rio.com/map/Namba/Kuromon-Ichiba-Market)  
+- Café da manhã com frutos do mar e comidas típicas.
+
+**2. Shitenno-ji Temple**
+- [Trajeto](https://www.rome2rio.com/map/Kuromon-Ichiba-Market/Shitenno-ji)  
+- Um dos templos mais antigos do Japão (~593 d.C.).
+
+**3. Almoço nas proximidades**
+
+**4. Sumiyoshi Taisha**
+- [Trajeto](https://www.rome2rio.com/map/Shitenno-ji/Sumiyoshi-Taisha)  
+- Famoso pela ponte arqueada Sorihashi.
+
+**5. Noite em Namba/Dotonbori**
+- [Trajeto](https://www.rome2rio.com/map/Sumiyoshi-Taisha/Dotonbori-Osaka)  
+- Compras, izakaya e letreiros luminosos.
+
+## 📅 Dia 13 - 13 de Outubro (Quarto dia em Osaka – Nara)
+
+**Viagem para Nara**
+- Trem turístico **Blue Symphony**.  
+- [Trajeto](https://www.rome2rio.com/map/Osaka/Nara)  
+- **Parque de Nara** (cervos soltos).  
+- **Templo Tōdai-ji** (Grande Buda).  
+- Retorno a Osaka no fim da tarde.  
+- [Trajeto retorno](https://www.rome2rio.com/map/Nara/Osaka)
+
+## 📅 Dia 14 - 14 de Outubro (Quinto dia em Osaka)
+
+**1. Osaka Aquarium Kaiyukan**
+- [Trajeto](https://www.rome2rio.com/map/Namba/Osaka-Aquarium-Kaiyukan)  
+- Um dos maiores aquários do mundo, destaque para o tubarão-baleia.
+
+**2. Passeio na Osaka Bay**
+- [Trajeto a pé](https://maps.app.goo.gl/RyZ7xVBRUvrbZms99)  
+- Shopping Tempozan Marketplace + roda-gigante Tempozan.
+
+**3. Almoço na região do aquário**
+
+**4. Templo Isshin-ji (opcional)**
+- [Trajeto](https://www.rome2rio.com/map/Osaka-Aquarium-Kaiyukan/Isshin-ji)  
+- Conhecido por estátuas feitas com cinzas humanas.
+
+**5. Última noite em Dotonbori**
+- [Trajeto](https://www.rome2rio.com/map/Isshin-ji/Dotonbori-Osaka)  
+- Aproveitar letreiros, jantar e compras.
+
+## 📅 Dia 15 - 15 de Outubro (Viagem para Tokyo)
+- [Trem de Osaka para Tokyo](https://www.rome2rio.com/map/Osaka/Tokyo)
+
+## 📅 Dia 16 - 16 de Outubro (Viagem de volta )
 
 ## Observações Gerais
-- Usar **Suica/Pasmo** para transporte urbano
+- Usar **Suica/ICOCA** para transporte urbano
 - Reservar **teamLab, Skytree e Shibuya Sky** online
 - Levar **passaporte** para descontos Tax Free
 - Conferir **Google Maps e Hyperdia** para rotas ao vivo
 - Comprar eSim no Airalo
+- Levar Ienes
