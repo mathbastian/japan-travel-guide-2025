@@ -48,11 +48,15 @@
 - [Trajeto de trem de *meiji-jingumae harajuku* até *Shibuya*](https://www.rome2rio.com/map/Japan-%E3%80%92150-0001-Tokyo-Shibuya-Jingumae-1-Chome%E2%88%92%EF%BC%91%EF%BC%95-Takeshita-Street-Harajuku/Shibuya-Crossing#r/Subway)
 - Ir no Starbucks para vista do cruzamento
 
-**5. Templo Gotokuji (maneki-neko)**
+**5. Shinjuku Gyoen National Garden**
+- Um dos mais belos parques de Tokyo.
+- Ótima pausa no meio da correria.
+
+**6. Templo Gotokuji (maneki-neko)**
 - Como chegar: [Trajeto de *Shibuya* até *Miyanosaka* de trem](https://www.rome2rio.com/map/Shibuya-Crossing/G%C5%8Dtokuji-Temple#r/Train)
 - Templo dos gatinhos da sorte
 
-**6. Noite em Shinjuku**
+**7. Noite em Shinjuku**
 - Lojas, eletrônicos, ABC-Mart (promoções e Tax Free com passaporte)
 
 ## 📅 Dia 3 – 03 de outubro (Nezu, Ueno, Ginza, teamLab, Tokyo Tower)
@@ -140,6 +144,12 @@
 **4. Higashiyama Ward**
 - Área da cidade bem antiga.
 - **Kiyomizu-dera**: Fortificação bem antiga muito bonita.
+
+**5. Gion (de dia)**
+- Caminhe a partir de *Kiyomizu-dera* pelas ruas preservadas: Sannenzaka e Ninenzaka → Hanamikoji Street (Gion)
+- Veja lojas tradicionais, doces típicos, casas de chá
+- Pode parar para um chá japonês em uma casa tradicional
+- Ideal antes do pôr do sol
 
 ## 📅 Dia 7 - 07 de outubro (Segundo dia em Kyoto)
 
@@ -231,11 +241,16 @@ Explorar a região norte e central de Kyoto com locais menos turísticos e vista
 **3. Almoço próximo ao Castelo**
 - Restaurantes no parque ou região de Morinomiya.
 
-**4. Umeda Sky Building**
+**4. Tenjinbashi-suji Shopping Street**
+- [Trajeto](https://www.rome2rio.com/map/Osaka-Castle/Tenjinbashisuji-Shopping-Street)
+- Maior rua coberta de compras do Japão (~2,6 km).
+- Lojas locais, comida de rua e souvenirs.
+
+**5. Umeda Sky Building**
 - [Trajeto](https://www.rome2rio.com/map/Osaka-Castle/Umeda-Sky-Building)  
 - Observatório com vista panorâmica. Melhor ir no pôr do sol.
 
-**5. Noite em Umeda**
+**6. Noite em Umeda**
 - Compras e jantar.  
 - [Trajeto retorno hotel](https://www.rome2rio.com/map/Umeda-Sky-Building/Namba)
 
@@ -255,17 +270,24 @@ Explorar a região norte e central de Kyoto com locais menos turísticos e vista
 - [Trajeto](https://www.rome2rio.com/map/Shitenno-ji/Sumiyoshi-Taisha)  
 - Famoso pela ponte arqueada Sorihashi.
 
-**5. Noite em Namba/Dotonbori**
-- [Trajeto](https://www.rome2rio.com/map/Sumiyoshi-Taisha/Dotonbori-Osaka)  
+**5. Shinsekai + Tsutenkaku Tower**
+- [Trajeto](https://www.rome2rio.com/map/Sumiyoshi-Taisha/Ts%C5%ABtenkaku)
+- Bairro retrô com atmosfera nostálgica.
+- Suba na torre para vista panorâmica e experimente o famoso kushikatsu.
+
+**6. Noite em Namba/Dotonbori**
+- [Trajeto](https://www.rome2rio.com/map/Ts%C5%ABtenkaku/Dotonbori-Osaka)  
 - Compras, izakaya e letreiros luminosos.
 
 ## 📅 Dia 13 - 13 de Outubro (Quarto dia em Osaka – Nara)
 
 **Viagem para Nara**
 - Trem turístico **Blue Symphony**.  
-- [Trajeto](https://www.rome2rio.com/map/Osaka/Nara)  
-- **Parque de Nara** (cervos soltos).  
-- **Templo Tōdai-ji** (Grande Buda).  
+- [Trajeto](https://www.rome2rio.com/map/Osaka/Nara)
+- Visitar:
+    - **Parque de Nara** (cervos soltos).  
+    - **Templo Tōdai-ji** (Grande Buda).
+    - **Kasuga Taisha**: 10–15 min a pé do Tōdai-ji.
 - Retorno a Osaka no fim da tarde.  
 - [Trajeto retorno](https://www.rome2rio.com/map/Nara/Osaka)
 
