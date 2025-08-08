@@ -82,7 +82,7 @@
 
 **7. Retorno ao hotel**
 
-## 📅 Dia 4 – 04 de outubro (Akihabara, Shibuya Sky, Kart)
+## 📅 Dia 4 – 04 de outubro (Akihabara, Shibuya Sky, Shibuya/Harajuku)
 
 **1. Akihabara**
 - Eletrônicos, lojas geek
@@ -96,6 +96,7 @@
 - Observatório com vista 360º (reserva antecipada, ¥3.000)
 
 **4. Ruas de Shibuya e Harajuku**
+- Já estaremos ali perto
 
 **5. Descansar cedo para viagem a Fuji**
 
@@ -116,7 +117,11 @@
 - Saída de Pagoda Chureito: [Trajeto](https://www.rome2rio.com/map/Chureito-Pagoda-2-chome-4-1-%E6%B5%85%E9%96%93-Fujiyoshida-Yamanashi-Japan/Oishi-Park)
 - Almoço no Royal Host com vista para o Fuji
 
-**5. Volta para Tokyo**
+**5. Narusawa Ice Cave**
+- Caverna de gelo
+- Trajeto mais complicado, pois fica no sul do lago Kawaguchiko
+
+**6. Volta para Tokyo**
 - Volta de Oishi Park até Mt. Fuji Station.
 - De *Mt. Fuji Station* em Fujiyoshida até *Tokyo* de trem: [Trajeto](https://www.rome2rio.com/map/Mt-Fuji-Station/Tokyo)
 
@@ -136,13 +141,27 @@
 - Área da cidade bem antiga.
 - **Kiyomizu-dera**: Fortificação bem antiga muito bonita.
 
-## 📅 Dia 7 (Segundo dia em Kyoto)
+## 📅 Dia 7 - 07 de outubro (Segundo dia em Kyoto)
 
-**Kamigamo Shrine**
-- Trilha com decorações muito bonitas.
+**1. Fushimi Inari Taisha (cedo, para evitar multidões)**
+- O famoso templo com milhares de portões torii vermelhos.
+- Trilha até o topo do monte Inari (opcional, ~2h ida e volta).
+- Acesso: Trem JR Nara Line da Kyoto Station até Inari Station (5 min).
 
-**Otagi Nenbutsuji Temple**
-- Parece interessante. Investigar mais.
+**2. Tofuku-ji Temple**
+- Próximo de Fushimi Inari (10–15 min a pé).
+- Conhecido por jardins zen e pontes com visual incrível no outono.
+
+**3. Nishiki Market (almoço e passeio)**
+- Mercado tradicional com comidas típicas, snacks e lembrancinhas.
+- Caminhada agradável e cultural.
+
+**4. Kamigamo Shrine (final de tarde)**
+- Um dos mais antigos de Kyoto.
+- Se ainda tiver energia, é um bom lugar para encerrar o dia de forma calma.
+
+### Alternativa para tarde chuvosa ou cansativa:
+- Visitar o Kyoto Railway Museum ou o Museu Internacional do Mangá de Kyoto.
 
 ## 📅 Dia 8 - 08 de outubro (Terceiro dia em Kyoto, Miyazu)
 
@@ -151,6 +170,29 @@
 - [Trajeto de trem até Amanohashidate](https://www.rome2rio.com/map/Kyoto/Amanohashidate-Beach-Monju-Miyazu-Kyoto-Japan#r/Train/s/0)
 
 ## 📅 Dia 9 - 09 de outubro (Quarto dia em Kyoto)
+
+Explorar a região norte e central de Kyoto com locais menos turísticos e vistas incríveis.
+
+**1. Kinkaku-ji (Pavilhão Dourado) (cedo)**
+- Um dos cartões-postais do Japão.
+- Melhor visitar de manhã, pois fica lotado depois.
+
+**2. Ryoan-ji**
+- Próximo ao Kinkaku-ji.
+- Templo zen com um famoso jardim de pedras.
+
+**3. Ninna-ji**
+- Também na mesma região.
+- Templo mais tranquilo, com uma bela pagoda e jardins.
+
+**4. Otagi Nenbutsuji Temple (fim do dia)**
+- Combine com o fim de tarde na região de Arashiyama (se não tiver explorado tudo no Dia 6).
+- As estátuas de pedra com expressões engraçadas são únicas.
+
+### Extra à noite:
+
+- Pontocho Alley: viela charmosa com bares e restaurantes tradicionais.
+- Gion: possibilidade de ver gueixas à noite.
 
 ## 📅 Dia 10 - 10 de Outubro (Viagem para Osaka)
 
@@ -251,6 +293,7 @@
 - [Trem de Osaka para Tokyo](https://www.rome2rio.com/map/Osaka/Tokyo)
 
 ## 📅 Dia 16 - 16 de Outubro (Viagem de volta )
+- Aeroporto 
 
 ## Observações Gerais
 - Usar **Suica/ICOCA** para transporte urbano
