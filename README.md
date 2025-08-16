@@ -5,6 +5,7 @@
 **1. Sensō-ji Temple (Asakusa)**
 - Entrada gratuita, abre às 6h
 - Caminhar pela Nakamise-dōri (lojinhas e comida de rua)
+- Trajeto: Sair andando de **Tokyo Prefecture, Tóquio, Taito-ku Komagata 2-4-10, Japão** (APA Hotel Asakusa Kuramae Kita)
 
 **2. Tokyo Skytree**
 - **Caminhar** pela Sumida River Walk (15min) ou **pegar um trem**: [Trajeto](https://www.rome2rio.com/map/Sens%C5%8D-ji/Tokyo-Skytree)
@@ -48,15 +49,22 @@
 - [Trajeto de trem de *meiji-jingumae harajuku* até *Shibuya*](https://www.rome2rio.com/map/Japan-%E3%80%92150-0001-Tokyo-Shibuya-Jingumae-1-Chome%E2%88%92%EF%BC%91%EF%BC%95-Takeshita-Street-Harajuku/Shibuya-Crossing#r/Subway)
 - Ir no Starbucks para vista do cruzamento
 
-**5. Shinjuku Gyoen National Garden**
+**5. Shibuya Sky**
+- [Como chegar](https://www.rome2rio.com/map/Don-Quijote-Asakusa-2-Chome-10-Asakusa-Taito-City-Tokyo-Japan/Shibuya-Scramble-Square-2-Chome-24-12-Shibuya-Tokyo-Japan#r/Subway): Metrô de Tawaramachi (perto do Donki) até Shibuya
+- Observatório com vista 360º (reserva antecipada, ¥3.000)
+
+**6. Ruas de Shibuya e Harajuku**
+- Já estaremos ali perto
+
+**7. Shinjuku Gyoen National Garden**
 - Um dos mais belos parques de Tokyo.
 - Ótima pausa no meio da correria.
 
-**6. Templo Gotokuji (maneki-neko)**
+**8. Templo Gotokuji (maneki-neko)**
 - Como chegar: [Trajeto de *Shibuya* até *Miyanosaka* de trem](https://www.rome2rio.com/map/Shibuya-Crossing/G%C5%8Dtokuji-Temple#r/Train)
 - Templo dos gatinhos da sorte
 
-**7. Noite em Shinjuku**
+**9. Noite em Shinjuku**
 - Lojas, eletrônicos, ABC-Mart (promoções e Tax Free com passaporte)
 
 ## 📅 Dia 3 – 03 de outubro (Nezu, Ueno, Ginza, teamLab, Tokyo Tower)
@@ -94,13 +102,6 @@
 **2. Don Quixote (DonKi)**
 - [Como chegar](https://www.rome2rio.com/map/Akihabara-Electric-Town/Don-Quijote-Asakusa-2-Chome-10-Asakusa-Taito-City-Tokyo-Japan#r/Train/s/0): Trem de Akihabara até Asakusa(Tsukuba)
 - Lojas de tudo um pouco: souvenirs, cosméticos, snacks
-
-**3. Shibuya Sky**
-- [Como chegar](https://www.rome2rio.com/map/Don-Quijote-Asakusa-2-Chome-10-Asakusa-Taito-City-Tokyo-Japan/Shibuya-Scramble-Square-2-Chome-24-12-Shibuya-Tokyo-Japan#r/Subway): Metrô de Tawaramachi (perto do Donki) até Shibuya
-- Observatório com vista 360º (reserva antecipada, ¥3.000)
-
-**4. Ruas de Shibuya e Harajuku**
-- Já estaremos ali perto
 
 **5. Descansar cedo para viagem a Fuji**
 
