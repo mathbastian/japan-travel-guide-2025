@@ -30,65 +30,63 @@
 
 **Total aproximado de caminhada:** 35–40 min (sem contar tempo de visita).
 
-**5. Retorno ao hotel**
-- [Trajeto desde Ponte Hachidoki (metrô)](https://www.rome2rio.com/map/Kachidoki-Bridge-6-Chome-19-Tsukiji-Chuo-City-Tokyo-Japan/Asakusa#r/Subway)
+**5. Palácio Imperial do Japão**
+- Podemos só olhar de longe, sem entrar.
+
+**6. Retorno ao hotel**
+- Volta ao *APA Hotel Asakusa Kuramae Kita.*
 
 ## 📅 Dia 2 – 02 de outubro (Harajuku, Shibuya, Gotokuji, Shinjuku)
 
-**1. Meiji Jingu Shrine**
-- Como chegar: Metrô da Estação *Akasaka-mitsuke* → *Meiji-jingumae* (Linha *Chiyoda*, ~20min)
-- Bosque tranquilo, portões torii
+**Templo Gotokuji (maneki-neko)**
+- Como chegar: 
+- Templo dos gatinhos da sorte
 
-**2. Takeshita Street**
-- [Trajeto a pé saindo de *Meiji Jingu Shrine*](https://www.rome2rio.com/map/Meiji-Shrine/Takeshita-Street-1-Chome-19-Jingumae-Shibuya-Tokyo-Japan#r/Walk/s/0)
-- Rua de pedestres com lojas coloridas, crepes, souvenires
-
-**3. Almoço em Omotesando ou nas redondezas**
-
-**4. Shibuya Crossing e Hachiko**
+**Shibuya Crossing e Hachiko**
 - [Trajeto de trem de *meiji-jingumae harajuku* até *Shibuya*](https://www.rome2rio.com/map/Japan-%E3%80%92150-0001-Tokyo-Shibuya-Jingumae-1-Chome%E2%88%92%EF%BC%91%EF%BC%95-Takeshita-Street-Harajuku/Shibuya-Crossing#r/Subway)
 - Ir no Starbucks para vista do cruzamento
 
-**5. Shibuya Sky**
+**Shibuya Sky**
 - [Como chegar](https://www.rome2rio.com/map/Don-Quijote-Asakusa-2-Chome-10-Asakusa-Taito-City-Tokyo-Japan/Shibuya-Scramble-Square-2-Chome-24-12-Shibuya-Tokyo-Japan#r/Subway): Metrô de Tawaramachi (perto do Donki) até Shibuya
 - Observatório com vista 360º (reserva antecipada, ¥3.000)
 
-**6. Ruas de Shibuya e Harajuku**
+**Ruas de Shibuya e Harajuku**
 - Já estaremos ali perto
 
-**7. Shinjuku Gyoen National Garden**
+**Takeshita Street**
+- [Trajeto a pé saindo de *Meiji Jingu Shrine*](https://www.rome2rio.com/map/Meiji-Shrine/Takeshita-Street-1-Chome-19-Jingumae-Shibuya-Tokyo-Japan#r/Walk/s/0)
+- Rua de pedestres com lojas coloridas, crepes, souvenires
+
+**Meiji Jingu Shrine**
+- Como chegar: Metrô da Estação *Akasaka-mitsuke* → *Meiji-jingumae* (Linha *Chiyoda*, ~20min)
+- Bosque tranquilo, portões torii
+
+**Shinjuku Gyoen National Garden**
 - Um dos mais belos parques de Tokyo.
 - Ótima pausa no meio da correria.
 
-**8. Templo Gotokuji (maneki-neko)**
-- Como chegar: [Trajeto de *Shibuya* até *Miyanosaka* de trem](https://www.rome2rio.com/map/Shibuya-Crossing/G%C5%8Dtokuji-Temple#r/Train)
-- Templo dos gatinhos da sorte
-
-**9. Noite em Shinjuku**
-- Lojas, eletrônicos, ABC-Mart (promoções e Tax Free com passaporte)
-
 ## 📅 Dia 3 – 03 de outubro (Nezu, Ueno, Ginza, teamLab, Tokyo Tower)
 
-**1. Nezu-jinja/Nezu Shrine**
+**Nezu-jinja/Nezu Shrine**
 - Como chegar: Akasaka-mitsuke → Nezu (Chiyoda Line, ~18min)
 - Templo com jardins e torii vermelhos
 
-**2. Parque Ueno & Templo Bentendo**
+**Parque Ueno & Templo Bentendo**
 - [Ônibus local ou metrô até Ueno](https://www.rome2rio.com/map/Nezu-Shrine/Ueno-Park#r/Bus)
 - Souvenires, comida de rua, museus
 
-**3. Almoço na Ueno Ameyoko Shopping Street**
+**Almoço na Ueno Ameyoko Shopping Street**
 - Vir caminhando do parque Ueno
 
-**4. Ginza**
+**Ginza**
 - [Como chegar](https://maps.app.goo.gl/tiz91dtZToMjsD778): trem da estação Ueno até Yurakucho
 - Lojas de luxo, GU (roupas baratas), Nissan Gallery
 
-**5. teamLab Borderless**
+**teamLab Borderless**
 - [Como chegar](https://maps.app.goo.gl/d3jU6fSqNrfEbnJ47): Hibiya Line em Ginza Station até Kamiyacho.
 - Museu digital imersivo (ingresso antecipado)
 
-**6. Tokyo Tower**
+**Tokyo Tower**
 - Dá pra chegar caminhando saindo de **teamLab Borderless**
 - Subida opcional (~¥1.200)
 
@@ -96,14 +94,12 @@
 
 ## 📅 Dia 4 – 04 de outubro (Akihabara, Shibuya Sky, Shibuya/Harajuku)
 
-**1. Akihabara**
-- Eletrônicos, lojas geek
-
-**2. Don Quixote (DonKi)**
+**Don Quixote (DonKi)**
 - [Como chegar](https://www.rome2rio.com/map/Akihabara-Electric-Town/Don-Quijote-Asakusa-2-Chome-10-Asakusa-Taito-City-Tokyo-Japan#r/Train/s/0): Trem de Akihabara até Asakusa(Tsukuba)
 - Lojas de tudo um pouco: souvenirs, cosméticos, snacks
 
-**5. Descansar cedo para viagem a Fuji**
+**Akihabara**
+- Eletrônicos, lojas geek
 
 ## 📅 Dia 5 – 05 de outubro (Monte Fuji – Chureito, Kawaguchi)
 
