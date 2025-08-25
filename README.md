@@ -86,28 +86,33 @@
 
 ## 📅 Dia 5 – 05 de outubro (Monte Fuji – Chureito, Kawaguchi)
 
-**1. Viagem até Fujiyoshida**
-- Por **trem** ou **ônibus** até a estação *Mt. Fuji*: [Trajeto](https://www.rome2rio.com/map/Tokyo/Mt-Fuji-Station)
+**1. Viagem até Fujiyoshida**  
+- Transporte: **Ônibus expresso** de Shinjuku até *Mt. Fuji Station* (~2h30) ou **Trem JR Chuo Line + Fujikyu Railway** (~3h).  
+- ⏱️ **Viagem: 2h30–3h** (recomendado sair cedo, ~7h da manhã).  
 
-**2. Vila de Fujiyoshida**
-- Restaurantes, lojinhas, doces regionais
+**2. Vila de Fujiyoshida**  
+- Caminhar pela região da estação, com lojinhas e restaurantes típicos.  
+- ⏱️ **45min–1h** (pausa rápida antes da pagoda).  
 
-**3. Pagoda Chureito**
-- Trem de *Mt. Fuji Station* até Estação *Shimoyoshida* → subir escadaria (~400 degraus)
-- Entrada: ¥500
-- [Trajeto](https://www.rome2rio.com/map/Mt-Fuji-Station/Chureito-Pagoda-2-chome-4-1-%E6%B5%85%E9%96%93-Fujiyoshida-Yamanashi-Japan#r/Train)
+**3. Pagoda Chureito**  
+- Transporte: **Trem Fujikyu Railway** até *Shimoyoshida Station* (~5min) + caminhada e subida da escadaria (~400 degraus).  
+- Entrada: ¥500.  
+- ⏱️ **1h30–2h** (subida + contemplar vista do Fuji + fotos).  
 
-**4. Oishi Park e Lago Kawaguchiko**
-- Saída de Pagoda Chureito: [Trajeto](https://www.rome2rio.com/map/Chureito-Pagoda-2-chome-4-1-%E6%B5%85%E9%96%93-Fujiyoshida-Yamanashi-Japan/Oishi-Park)
-- Almoço no Royal Host com vista para o Fuji
+**4. Oishi Park & Lago Kawaguchiko**  
+- Transporte: **Ônibus local** de Shimoyoshida até Kawaguchiko (~20min) e depois até Oishi Park (~15min).  
+- Vista panorâmica do Monte Fuji refletido no lago.  
+- Almoço sugerido: **Royal Host** ou restaurantes locais à beira do lago.  
+- ⏱️ **2h** (passeio + almoço).  
 
-**5. Narusawa Ice Cave**
-- Caverna de gelo
-- Trajeto mais complicado, pois fica no sul do lago Kawaguchiko
+**5. Narusawa Ice Cave**  
+- Transporte: **Ônibus local** de Kawaguchiko até a região de Narusawa (~30min).  
+- Caverna de gelo aberta o ano todo, temperatura interna constante (~0°C).  
+- ⏱️ **1h** (exploração da caverna).  
 
-**6. Volta para Tokyo**
-- Volta de Oishi Park até Mt. Fuji Station.
-- De *Mt. Fuji Station* em Fujiyoshida até *Tokyo* de trem: [Trajeto](https://www.rome2rio.com/map/Mt-Fuji-Station/Tokyo)
+**6. Volta para Tokyo**  
+- Transporte: **Ônibus expresso** de Kawaguchiko ou Mt. Fuji Station até Shinjuku (~2h30) ou trem (~3h).  
+- ⏱️ **Viagem: 2h30–3h** (chegada à noite em Tóquio).  
 
 ## 📅 Dia 6 - 06 de outubro (Viagem a Kyoto)
 
