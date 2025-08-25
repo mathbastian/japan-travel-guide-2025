@@ -1,105 +1,88 @@
-# Roteiro Japão 2025 - 30 de Setembro a 16 de Outubro
+# 📍 Roteiro Japão 2025
 
-## 📅 Dia 1 – 01 de outubro (Asakusa, Skytree, Tsukiji)
+## 📅 Dia 1 – 01 de outubro (Ueno, Nezu, Asakusa, Skytree)
 
-**1. Sensō-ji Temple (Asakusa)**
-- Entrada gratuita, abre às 6h
-- Caminhar pela Nakamise-dōri (lojinhas e comida de rua)
-- Trajeto: Sair andando de **Tokyo Prefecture, Tóquio, Taito-ku Komagata 2-4-10, Japão** (APA Hotel Asakusa Kuramae Kita)
+**1. Ueno Ameyoko Shopping Street**  
+- Transporte: **Metrô Ginza Line** até Ueno (~10min).  
+- ⏱️ **1h–1h30** (explorar lojinhas e comida de rua).  
 
-**2. Tokyo Skytree**
-- **Caminhar** pela Sumida River Walk (15min) ou **pegar um trem**: [Trajeto](https://www.rome2rio.com/map/Sens%C5%8D-ji/Tokyo-Skytree)
+**2. Ueno Park & Bentendo**  
+- A pé de Ameyoko (~5min).  
+- ⏱️ **1h–1h30** (passeio pelo parque, templo, lago).  
 
-**3. Almoço no Solamachi Mall** (shopping anexo ao Skytree)
+**3. Nezu Shrine (Nezu-jinja)**  
+- Transporte: **Chiyoda Line** de Ueno até Nezu (~5min).  
+- ⏱️ **45min–1h** (visitar torii vermelhos e jardins).  
 
-**4. Tsukiji Outer Market**
-- Da Skytree até aqui, pegar metrô: [Trajeto](https://www.rome2rio.com/map/Tokyo-Skytree/Tsukiji-fish-market#r/Subway)
-- Mercado de peixes, frutos do mar, doces, snacks, comida de rua.
+**4. Sensō-ji Temple (Asakusa)**  
+- Transporte: metrô de Nezu até Asakusa (~20min).  
+- ⏱️ **1h30–2h** (templo + Nakamise-dōri).  
 
-### Caminhada ao redor do Tsukiji Market
+**5. Tokyo Skytree**  
+- Transporte: metrô ou caminhada (~15min da Asakusa).  
+- ⏱️ **2h** (observatório + shopping Solamachi para jantar).  
 
-| Ordem | Local                      | Distância do ponto anterior | Tempo médio a pé |
-|-------|----------------------------|-----------------------------|-----------------|
-| 1     | **Tsukiji Outer Market**   | —                           | —               |
-| 2     | **Namiyoke Inari Shrine**  | 100 m                       | 2 min           |
-| 3     | **Tsukiji Hongan‑ji Temple**| 300 m                      | 4–5 min         |
-| 4     | **Kabukiza Theatre**       | 600 m                       | 7–8 min         |
-| 5     | **Ginza (lojas e cafés)**  | 300 m                       | 4–5 min         |
-| 6     | **Jardins Hamarikyu**      | 900 m                       | 10–12 min       |
-| 7     | **Ponte Kachidoki**        | 600 m                       | 8–9 min         |
+## 📅 Dia 2 – 02 de outubro (Shibuya, Harajuku, Shinjuku, Gotokuji)
 
-**Total aproximado de caminhada:** 35–40 min (sem contar tempo de visita).
+**1. Shibuya Sky**  
+- Transporte: **Ginza Line** até Shibuya (~35min).  
+- ⏱️ **1h–1h30** (subida + contemplar a vista).  
 
-**5. Palácio Imperial do Japão**
-- Podemos só olhar de longe, sem entrar.
+**2. Gōtokuji Temple (maneki-neko)**  
+- Transporte: **Linha Odakyu** de Shinjuku (~15min).  
+- ⏱️ **1h** (passeio rápido + fotos dos gatos da sorte).  
 
-**6. Retorno ao hotel**
-- Volta ao *APA Hotel Asakusa Kuramae Kita.*
+**3. Shinjuku Gyoen National Garden**  
+- Caminhada de Shinjuku (~10min).  
+- ⏱️ **1h30–2h** (relaxar e explorar os jardins).  
 
-## 📅 Dia 2 – 02 de outubro (Harajuku, Shibuya, Gotokuji, Shinjuku)
+**4. Shibuya Scramble Crossing & Hachiko**  
+- Transporte: **JR Yamanote Line** de Shinjuku até Shibuya (~7min).  
+- ⏱️ **30–45min** (fotos, Starbucks para vista).  
 
-**Templo Gotokuji (maneki-neko)**
-- Como chegar: 
-- Templo dos gatinhos da sorte
+**5. Takeshita Street (Harajuku)**  
+- Transporte: **JR Yamanote Line** até Harajuku (~2min).  
+- ⏱️ **1h–1h30** (rua jovem, lojinhas, crepes).  
 
-**Shibuya Crossing e Hachiko**
-- [Trajeto de trem de *meiji-jingumae harajuku* até *Shibuya*](https://www.rome2rio.com/map/Japan-%E3%80%92150-0001-Tokyo-Shibuya-Jingumae-1-Chome%E2%88%92%EF%BC%91%EF%BC%95-Takeshita-Street-Harajuku/Shibuya-Crossing#r/Subway)
-- Ir no Starbucks para vista do cruzamento
+**6. Meiji Jingu Shrine**  
+- A pé de Takeshita (~10min).  
+- ⏱️ **1h–1h30** (santuário e caminhada pelo bosque).  
 
-**Shibuya Sky**
-- [Como chegar](https://www.rome2rio.com/map/Don-Quijote-Asakusa-2-Chome-10-Asakusa-Taito-City-Tokyo-Japan/Shibuya-Scramble-Square-2-Chome-24-12-Shibuya-Tokyo-Japan#r/Subway): Metrô de Tawaramachi (perto do Donki) até Shibuya
-- Observatório com vista 360º (reserva antecipada, ¥3.000)
+## 📅 Dia 3 – 03 de outubro (Centro + Odaiba)
 
-**Ruas de Shibuya e Harajuku**
-- Já estaremos ali perto
+**1. Imperial Palace (Kokyo)**  
+- Transporte: metrô até Otemachi (~25min).  
+- ⏱️ **1h** (praças externas, jardins, fossos).  
 
-**Takeshita Street**
-- [Trajeto a pé saindo de *Meiji Jingu Shrine*](https://www.rome2rio.com/map/Meiji-Shrine/Takeshita-Street-1-Chome-19-Jingumae-Shibuya-Tokyo-Japan#r/Walk/s/0)
-- Rua de pedestres com lojas coloridas, crepes, souvenires
+**2. Hamarikyu Gardens**  
+- Transporte: metrô até Shimbashi (~20min).  
+- ⏱️ **1h–1h30** (jardim paisagístico).  
 
-**Meiji Jingu Shrine**
-- Como chegar: Metrô da Estação *Akasaka-mitsuke* → *Meiji-jingumae* (Linha *Chiyoda*, ~20min)
-- Bosque tranquilo, portões torii
+**3. Tsukiji Outer Market**  
+- Transporte: metrô até Higashi-Ginza (~25min).  
+- ⏱️ **1h30–2h** (explorar mercado + lanche).  
 
-**Shinjuku Gyoen National Garden**
-- Um dos mais belos parques de Tokyo.
-- Ótima pausa no meio da correria.
+**4. Tokyo Tower**  
+- Transporte: metrô até Daimon, caminhada (~10min).  
+- ⏱️ **1h–1h30** (subida opcional + fotos externas).  
 
-## 📅 Dia 3 – 03 de outubro (Nezu, Ueno, Ginza, teamLab, Tokyo Tower)
+**5. teamLab Borderless (Toyosu/Odaiba)**  
+- Transporte: metrô + Yurikamome até Toyosu (~30min).  
+- ⏱️ **2h–2h30** (museu digital imersivo).  
 
-**Nezu-jinja/Nezu Shrine**
-- Como chegar: Akasaka-mitsuke → Nezu (Chiyoda Line, ~18min)
-- Templo com jardins e torii vermelhos
+**6. Ginza**  
+- Transporte: metrô Hibiya Line de Toyosu (~15min).  
+- ⏱️ **1h–1h30** (lojas, cafés, Nissan Gallery).  
 
-**Parque Ueno & Templo Bentendo**
-- [Ônibus local ou metrô até Ueno](https://www.rome2rio.com/map/Nezu-Shrine/Ueno-Park#r/Bus)
-- Souvenires, comida de rua, museus
+## 📅 Dia 4 – 04 de outubro (Akihabara + Asakusa)
 
-**Almoço na Ueno Ameyoko Shopping Street**
-- Vir caminhando do parque Ueno
+**1. Don Quijote (DonKi – Asakusa)**  
+- Caminhada (~10min do hotel).  
+- ⏱️ **1h** (compras de souvenirs/snacks).  
 
-**Ginza**
-- [Como chegar](https://maps.app.goo.gl/tiz91dtZToMjsD778): trem da estação Ueno até Yurakucho
-- Lojas de luxo, GU (roupas baratas), Nissan Gallery
-
-**teamLab Borderless**
-- [Como chegar](https://maps.app.goo.gl/d3jU6fSqNrfEbnJ47): Hibiya Line em Ginza Station até Kamiyacho.
-- Museu digital imersivo (ingresso antecipado)
-
-**Tokyo Tower**
-- Dá pra chegar caminhando saindo de **teamLab Borderless**
-- Subida opcional (~¥1.200)
-
-**7. Retorno ao hotel**
-
-## 📅 Dia 4 – 04 de outubro (Akihabara, Shibuya Sky, Shibuya/Harajuku)
-
-**Don Quixote (DonKi)**
-- [Como chegar](https://www.rome2rio.com/map/Akihabara-Electric-Town/Don-Quijote-Asakusa-2-Chome-10-Asakusa-Taito-City-Tokyo-Japan#r/Train/s/0): Trem de Akihabara até Asakusa(Tsukuba)
-- Lojas de tudo um pouco: souvenirs, cosméticos, snacks
-
-**Akihabara**
-- Eletrônicos, lojas geek
+**2. Akihabara Electric Town**  
+- Transporte: metrô Ginza Line ou Tsukuba Express (~10min).  
+- ⏱️ **2h–3h** (eletrônicos, anime, mangás, maid cafés).  
 
 ## 📅 Dia 5 – 05 de outubro (Monte Fuji – Chureito, Kawaguchi)
 
