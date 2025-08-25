@@ -2,6 +2,8 @@
 
 ## 📅 Dia 1 – 01 de outubro (Ueno, Nezu, Asakusa, Skytree)
 
+[**Lista no Maps**](https://maps.app.goo.gl/32BgbMGzXm6NW5C36)
+
 **1. Ueno Ameyoko Shopping Street**  
 - Transporte: **Metrô Ginza Line** até Ueno (~10min).  
 - ⏱️ **1h–1h30** (explorar lojinhas e comida de rua).  
@@ -23,6 +25,8 @@
 - ⏱️ **2h** (observatório + shopping Solamachi para jantar).  
 
 ## 📅 Dia 2 – 02 de outubro (Shibuya, Harajuku, Shinjuku, Gotokuji)
+
+[**Lista no Maps**](https://maps.app.goo.gl/M88v9zDR1dSqX5eVA)
 
 **1. Shibuya Sky**  
 - Transporte: **Ginza Line** até Shibuya (~35min).  
@@ -50,6 +54,8 @@
 
 ## 📅 Dia 3 – 03 de outubro (Centro + Odaiba)
 
+[**Lista no Maps**](https://maps.app.goo.gl/NszV6Wz8TPpgmcddA)
+
 **1. Imperial Palace (Kokyo)**  
 - Transporte: metrô até Otemachi (~25min).  
 - ⏱️ **1h** (praças externas, jardins, fossos).  
@@ -76,6 +82,8 @@
 
 ## 📅 Dia 4 – 04 de outubro (Akihabara + Asakusa)
 
+[**Lista no Maps**](https://maps.app.goo.gl/w51nrtUwxH5PSmqn7)
+
 **1. Don Quijote (DonKi – Asakusa)**  
 - Caminhada (~10min do hotel).  
 - ⏱️ **1h** (compras de souvenirs/snacks).  
@@ -85,6 +93,8 @@
 - ⏱️ **2h–3h** (eletrônicos, anime, mangás, maid cafés).  
 
 ## 📅 Dia 5 – 05 de outubro (Monte Fuji – Chureito, Kawaguchi)
+
+[**Lista no Maps**](https://maps.app.goo.gl/4yeDgka9MNMt45kR9)
 
 **1. Viagem até Fujiyoshida**  
 - Transporte: **Ônibus expresso** de Shinjuku até *Mt. Fuji Station* (~2h30) ou **Trem JR Chuo Line + Fujikyu Railway** (~3h).  
