@@ -124,80 +124,150 @@
 - Transporte: **Ônibus expresso** de Kawaguchiko ou Mt. Fuji Station até Shinjuku (~2h30) ou trem (~3h).  
 - ⏱️ **Viagem: 2h30–3h** (chegada à noite em Tóquio).  
 
-## 📅 Dia 6 - 06 de outubro (Viagem a Kyoto)
+## 📅 Dia 6 - 06 de outubro (Viagem a Kyoto, Higashiyama e Gion)
 
-**1. Viagem até Kyoto**
-- Trem de **Tokyo** até **Kyoto**: [Trajeto](https://www.rome2rio.com/map/Tokyo/Kyoto)
-- Chegar no hotel
+[**Lista no Maps**](https://maps.app.goo.gl/ry27PH8kdhyTT7L29)
 
-**2. Adashino Nenbutsuji**
-- Templo budista com jardim de bambus bonito. Potencial substituto ao *Arashiyama Bamboo Forest*.
+**1. Viagem até Kyoto**  
+- Transporte: **Trem bala Shinkansen** de Tokyo Station → Kyoto Station (~2h20).  
+- Check-in no **APA Hotel Kyoto Ekihigashi** (ao lado da estação).  
+- ⏱️ **Viagem: 2h20**.  
 
-**3. Arashiyama Bamboo Forest**
-- Floresta de bambus bonita.
+**2. Higashiyama Ward**  
+- Transporte: **Ônibus local** da Kyoto Station até Gojozaka (~15min).  
+- Passeio pelas ruas antigas, lojinhas tradicionais e atmosfera histórica.  
+- ⏱️ **1h**.  
 
-**4. Higashiyama Ward**
-- Área da cidade bem antiga.
-- **Kiyomizu-dera**: Fortificação bem antiga muito bonita.
+**3. Kiyomizu-dera**  
+- Caminhada curta (~10min) desde Higashiyama.  
+- Um dos templos mais icônicos de Kyoto, famoso pelo terraço de madeira.  
+- Entrada: ¥400.  
+- ⏱️ **1h–1h30**.  
 
-**5. Gion (de dia)**
-- Caminhe a partir de *Kiyomizu-dera* pelas ruas preservadas: Sannenzaka e Ninenzaka → Hanamikoji Street (Gion)
-- Veja lojas tradicionais, doces típicos, casas de chá
-- Pode parar para um chá japonês em uma casa tradicional
-- Ideal antes do pôr do sol
+**4. Ninenzaka & Sannenzaka**  
+- Caminhada descendo das escadarias do Kiyomizu-dera (~5min).  
+- Ruas preservadas com casas de chá, souvenirs e doces tradicionais.  
+- ⏱️ **1h** (com pausa para chá/café).  
 
-## 📅 Dia 7 - 07 de outubro (Segundo dia em Kyoto)
+**5. Pontocho Alley**  
+- Transporte: **Ônibus local** até Shijo Kawaramachi (~15min).  
+- Ruelas estreitas ao lado do rio Kamogawa, ótimas para jantar em izakayas e restaurantes típicos.  
+- ⏱️ **2h (jantar + passeio noturno)**.  
 
-**1. Fushimi Inari Taisha (cedo, para evitar multidões)**
-- O famoso templo com milhares de portões torii vermelhos.
-- Trilha até o topo do monte Inari (opcional, ~2h ida e volta).
-- Acesso: Trem JR Nara Line da Kyoto Station até Inari Station (5 min).
+## 📅 Dia 7 – 07 de outubro (Arashiyama + Norte de Kyoto)
 
-**2. Tofuku-ji Temple**
-- Próximo de Fushimi Inari (10–15 min a pé).
-- Conhecido por jardins zen e pontes com visual incrível no outono.
+[**Lista no Maps**](https://maps.app.goo.gl/JtoKuVapMX5sRDJt5)
 
-**3. Nishiki Market (almoço e passeio)**
-- Mercado tradicional com comidas típicas, snacks e lembrancinhas.
-- Caminhada agradável e cultural.
+**1. Arashiyama Monkey Park Iwatayama**  
+- Transporte: **Trem JR Sagano Line** de Kyoto Station até Arashiyama (~20min).  
+- Caminhada de subida (~20min) até o mirante com macacos e vista da cidade.  
+- Entrada: ¥600.  
+- ⏱️ **1h30–2h**.  
 
-**4. Kamigamo Shrine (final de tarde)**
-- Um dos mais antigos de Kyoto.
-- Se ainda tiver energia, é um bom lugar para encerrar o dia de forma calma.
+**2. Arashiyama Bamboo Forest**  
+- Caminhada (~10min).  
+- Floresta de bambus famosa, trilha curta mas muito fotogênica.  
+- ⏱️ **40min–1h**.  
 
-### Alternativa para tarde chuvosa ou cansativa:
-- Visitar o Kyoto Railway Museum ou o Museu Internacional do Mangá de Kyoto.
+**3. Giōji Temple**  
+- Caminhada (~15min).  
+- Pequeno templo rodeado por um jardim de musgo encantador.  
+- Entrada: ¥300.  
+- ⏱️ **30min–40min**.  
 
-## 📅 Dia 8 - 08 de outubro (Terceiro dia em Kyoto, Miyazu)
+**4. Adashino Nenbutsuji Temple**  
+- Caminhada (~10min).  
+- Templo com milhares de estátuas budistas e bambuzal fotogênico.  
+- Entrada: ¥500.  
+- ⏱️ **40min–1h**.  
 
-**1. Amanohashidate - Miyazu**
-- Bondinho com vista muito massa. É longe de Kyoto, mas tem trem 4 vezes ao dia, leva 2 horas. Chegando na estação em Miyazu, aparentemente tem que pegar um taxi pra chegar no local.
-- [Trajeto de trem até Amanohashidate](https://www.rome2rio.com/map/Kyoto/Amanohashidate-Beach-Monju-Miyazu-Kyoto-Japan#r/Train/s/0)
+**5. Ninna-ji Temple**  
+- Transporte: **Ônibus local** de Arashiyama até Ninna-ji (~20min).  
+- Patrimônio Mundial, famoso por sua pagoda e jardins.  
+- Entrada: ¥500.  
+- ⏱️ **1h**.  
 
-## 📅 Dia 9 - 09 de outubro (Quarto dia em Kyoto)
+**6. Ryōan-ji**  
+- Caminhada (~15min).  
+- Templo zen com o mais famoso jardim de pedras do Japão.  
+- Entrada: ¥500.  
+- ⏱️ **40min–1h**.  
 
-Explorar a região norte e central de Kyoto com locais menos turísticos e vistas incríveis.
+**7. Kinkaku-ji (Pavilhão Dourado)**  
+- Caminhada (~15min).  
+- Um dos símbolos do Japão, pavilhão coberto de folhas de ouro.  
+- Entrada: ¥500.  
+- ⏱️ **1h**.  
 
-**1. Kinkaku-ji (Pavilhão Dourado) (cedo)**
-- Um dos cartões-postais do Japão.
-- Melhor visitar de manhã, pois fica lotado depois.
+## 📅 Dia 8 – 08 de outubro (Miyazu & Amanohashidate)
 
-**2. Ryoan-ji**
-- Próximo ao Kinkaku-ji.
-- Templo zen com um famoso jardim de pedras.
+[**Lista no Maps**](https://maps.app.goo.gl/jdm3padVYSQoyMJ88)
 
-**3. Ninna-ji**
-- Também na mesma região.
-- Templo mais tranquilo, com uma bela pagoda e jardins.
+**1. Viagem até Amanohashidate (Miyazu)**  
+- Transporte: **Trem Limited Express Hashidate** de Kyoto Station até Amanohashidate (~2h).  
+- ⏱️ **Viagem: 2h** (recomendo saída ~7h30–8h).  
 
-**4. Otagi Nenbutsuji Temple (fim do dia)**
-- Combine com o fim de tarde na região de Arashiyama (se não tiver explorado tudo no Dia 6).
-- As estátuas de pedra com expressões engraçadas são únicas.
+**2. Amanohashidate Viewland**  
+- Caminhada/cable car até o mirante (~10min).  
+- Uma das “3 vistas mais belas do Japão”.  
+- Entrada: ¥850.  
+- ⏱️ **1h–1h30**.  
 
-### Extra à noite:
+**3. Kaisen Bridge**  
+- Caminhada (~15min).  
+- Ponte giratória que abre para barcos passarem.  
+- ⏱️ **30min**.  
 
-- Pontocho Alley: viela charmosa com bares e restaurantes tradicionais.
-- Gion: possibilidade de ver gueixas à noite.
+**4. Miyabi Ine Boathouse Café (almoço)**  
+- Transporte: **Ônibus local** de Amanohashidate até Ine (~1h).  
+- Café à beira-mar, com vista das casas tradicionais dos pescadores.  
+- ⏱️ **1h (almoço + pausa)**.  
+
+**5. Ine Fishing Village**  
+- Passeio a pé pela vila histórica com boathouses.  
+- Opcional: passeio de barco (~30min).  
+- ⏱️ **1h–1h30**.  
+
+**6. Volta para Kyoto**  
+- Transporte: **Ônibus Ine → Amanohashidate (~1h)** + trem de volta a Kyoto (~2h).  
+- ⏱️ **Viagem: 3h total**.  
+
+## 📅 Dia 9 – 09 de outubro (Cultura e templos do sul de Kyoto)
+
+[**Lista no Maps**](https://maps.app.goo.gl/t5mhsYs4dpzh1jHf7)
+
+**1. Fushimi Inari Taisha (Senbon Torii)**  
+- Transporte: **Trem JR Nara Line** de Kyoto Station até Inari Station (~5min).  
+- Caminhada pelo famoso caminho com milhares de portões vermelhos.  
+- ⏱️ **2h** (trilha curta) ou **3h–3h30** (trilha completa até o topo).  
+
+**2. Tōfuku-ji Temple**  
+- Caminhada (~10min).  
+- Um dos maiores templos zen de Kyoto, com belos jardins e pontes.  
+- Entrada: ¥400.  
+- ⏱️ **1h**.  
+
+**3. Nishiki Market (almoço)**  
+- Transporte: **Trem Keihan Line** até Shijo (~10min).  
+- Mercado coberto com comidas típicas e souvenires.  
+- ⏱️ **1h–1h30 (almoço + passeio)**.  
+
+**4. Kyoto Railway Museum**  
+- Transporte: **Ônibus local** até o museu (~15min).  
+- Exposição interativa de trens japoneses, incluindo shinkansen.  
+- Entrada: ¥1.200.  
+- ⏱️ **1h30–2h**.  
+
+**5. Kyoto International Manga Museum**  
+- Transporte: **Ônibus local** (~15min).  
+- Museu com milhares de mangás, desde clássicos até os mais recentes.  
+- Entrada: ¥900.  
+- ⏱️ **1h30–2h**.  
+
+**6. Kamigamo Shrine (final de tarde)**  
+- Transporte: **Ônibus local** (~25min).  
+- Um dos santuários mais antigos de Kyoto, atmosfera calma para encerrar o dia.  
+- ⏱️ **40min–1h**.  
 
 ## 📅 Dia 10 - 10 de Outubro (Viagem para Osaka)
 
