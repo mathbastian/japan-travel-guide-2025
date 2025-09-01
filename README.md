@@ -271,6 +271,8 @@
 
 ## 📅 Dia 10 - 10 de Outubro (Viagem para Osaka)
 
+adicionar Wagyu Idaten (restaurante) em algum dos dias
+
 **1. Viagem até Osaka**
 - Trem bala (Shinkansen) de **Kyoto** até **Osaka** (~15min).  
 - [Trajeto](https://www.rome2rio.com/map/Kyoto/Osaka)  
